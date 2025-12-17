@@ -10,8 +10,8 @@ int main() {
 
     int choice;
     cout << "Choose Gamemode:\n";
-    cout << "1: Player vs Player\n";
-    cout << "2: Player vs AI\n";
+    cout << "1: Human vs Human\n";
+    cout << "2: Human vs AI\n";
     cout << "3: AI vs AI\n";
     cout << " : ";
     cin >> choice;
